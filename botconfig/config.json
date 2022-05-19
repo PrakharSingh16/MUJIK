@@ -1,0 +1,26 @@
+{
+   "token": "",
+   "prefix": "m!",
+   "ownerIDS": [
+      "837599994365739009"
+   ],
+   "status": {
+      "text": " m!help",
+      "text2": "",
+      "type": "PLAYING",
+      "url": "https://discord.com/api/oauth2/authorize?client_id=928519289156300850&permissions=8&scope=bot%20applications.commands"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "anything as password"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
